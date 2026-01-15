@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "titulo": "El Quijote",
+      "autor": "Miguel de Cervantes",
+      "paginas": 863
+    },
+    {
+      "id": 2,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "paginas": 471
+    },
+    {
+      "id": 3,
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "paginas": 96
+    },
+    {
+      "id": 4,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "paginas": 328
+    },
+    {
+      "id": 5,
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "paginas": 600
+    }
+  ]
+}
