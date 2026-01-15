@@ -49,7 +49,7 @@ import java.util.Optional;
 @RestController                    // ← Marca esta clase como controlador REST
 @RequestMapping("/api/libros")     // ← CAMBIAR: ruta base de tu API
 @CrossOrigin(origins = "*")        // ← ¡CRÍTICO! Permite acceso desde frontend
-public class LibroController {
+public class LibrosController {
 
     // ════════════════════════════════════════════════════════════════════════════
     //  INYECCIÓN DE DEPENDENCIAS
